@@ -3,7 +3,7 @@
 This repository contains the code associated with the paper:
 
 **Estimating the distance at which narwhal respond to disturbance: a penalized threshold hidden Markov model**
-by Fanny Dupont, Marianne Marcoux, Nigel Hussey, Jackie Dawson, Marie Auger-Méthé
+by Fanny Dupont, Marianne Marcoux, Nigel E. Hussey, Jackie Dawson, Marie Auger-Méthé
 
 ---
 

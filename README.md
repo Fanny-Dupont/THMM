@@ -1,8 +1,8 @@
-# THMM: Penalized Threshold Hidden Markov Model for Narwhal Disturbance Response
+# THMM: Penalized Threshold Hidden Markov Model for Narwhal (Monodon monoceros) Disturbance Response
 
 This repository contains the code associated with the paper:
 
-**Estimating the distance at which narwhals respond to disturbance: a penalized threshold hidden Markov model**
+**Estimating the distance at which narwhal respond to disturbance: a penalized threshold hidden Markov model**
 by Fanny Dupont, Marianne Marcoux, Nigel Hussey, Jackie Dawson, Marie Auger-Méthé
 
 ---

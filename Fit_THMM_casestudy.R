@@ -351,7 +351,7 @@ FitLassoTHMM_covinTPM <-  function(par0,dat0){ # Function to fit the Lasso THMM
 
 #### Fit Model ####
 
-Nrep = 50       # Number of random initial values explored
+Nrep = 50       # Number of random initial values explored, 50 for feasibility, 100 in the "real" case study
 bb = list()     # Initial list for Nrep models
 nllk = array()  # Initial array for Nrep negative log-likelihoods
 set.seed(1,kind="Mersenne-Twister",normal.kind = "Inversion")
